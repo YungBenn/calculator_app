@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-Color redCol = Color(0xffFF5252);
-Color pinkCol = Color(0xffFFE9E9);
-Color orangeCol = Color(0xffFC9639);
-Color whiteCol = Color(0xffFFFFFF);
-Color whiteForDarkCol = Color(0xffFAFAFA);
-Color blueCol = Color(0xffCEEDFF);
-Color greenCol = Color(0xff2EC988);
-Color greyCol = Color(0xff494949);
+Color redCol = const Color(0xffFF5252);
+Color pinkCol = const Color(0xffFFE9E9);
+Color orangeCol = const Color(0xffFC9639);
+Color whiteCol = const Color(0xffFFFFFF);
+Color whiteForDarkCol = const Color(0xffFAFAFA);
+Color blueCol = const Color(0xffCEEDFF);
+Color greenCol = const Color(0xff2EC988);
+Color greyCol = const Color(0xff494949);
 
 double edge = 17;
 
